@@ -8,31 +8,31 @@ const Homepage = (props) => (
       <div className="menu-item">
         <div className='content'>
           <h1 className='title'>HATS</h1>
-          <scan className='subtitle'>SHOP</scan>
+          <span className='subtitle'>SHOP</span>
         </div>
       </div>
       <div className="menu-item">
         <div className='content'>
           <h1 className='title'>JACKETS</h1>
-          <scan className='subtitle'>SHOP</scan>
+          <span className='subtitle'>SHOP</span>
         </div>
       </div>
       <div className="menu-item">
         <div className='content'>
           <h1 className='title'>SNEAKERS</h1>
-          <scan className='subtitle'>SHOP</scan>
+          <span className='subtitle'>SHOP</span>
         </div>
       </div>
       <div className="menu-item">
         <div className='content'>
           <h1 className='title'>WOMENS</h1>
-          <scan className='subtitle'>SHOP</scan>
+          <span className='subtitle'>SHOP</span>
         </div>
       </div>
       <div className="menu-item">
         <div className='content'>
           <h1 className='title'>MENS</h1>
-          <scan className='subtitle'>SHOP</scan>
+          <span className='subtitle'>SHOP</span>
         </div>
       </div>
     </div>
