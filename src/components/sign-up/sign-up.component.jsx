@@ -52,7 +52,7 @@ class SignUp extends Component {
           <form action="" onSubmit={this.handleSubmit} className='sign-up-form'>
             <FormInput
               name="displayName"
-              type="email"
+              type="text"
               handleChange={this.handleChange}
               value={displayName}
               label="Display Name"
@@ -75,7 +75,7 @@ class SignUp extends Component {
               required />
 
             <FormInput
-              name="confirmpassword"
+              name="confirmPassword"
               type="password"
               handleChange={this.handleChange}
               value={confirmPassword}
